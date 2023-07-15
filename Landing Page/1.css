@@ -1,0 +1,157 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.wrapper{
+    min-width: 100vw;
+    min-height:auto;
+}
+.container{
+   position: relative; 
+   width: 1440px;
+   height:2211px; 
+   margin:0 auto;
+}
+.h1{
+    padding-top: 6rem;
+    margin-left: 20rem;
+    position: absolute;
+    font-family: 'Roboto';
+    font-size: 43px;
+    line-height: 84px;
+    color: #FFFFFF;
+}
+.h2{
+    width: 814px;
+    height: 84px;
+    position: absolute; 
+    padding-top: 9rem;
+    margin-left: 20rem;
+    color: #FFFFFF;
+    font-size: 59px;
+    line-height: 84px;
+}
+.hero2{
+    width: 1440px;
+    height: 279px; 
+    background: #161619;
+}
+.h21{
+width: 1015px;
+height: 169px;
+font-size: 72px;
+line-height: 84px;
+color: #FFFFFF;
+top: 815px;
+padding-top: 5rem;
+margin-left:14.3rem ;
+}
+
+.hero3{
+    width: 1066px;
+height: 450px;
+display: flex;
+gap:50px;
+padding: 6rem;
+margin-left: 5.2rem;
+
+}
+.h31{
+    width: 320px;
+    height: 192px; 
+}
+.p1{
+    width: 292px;
+height: 42px;
+font-size: 12px;
+color: #000000;
+}
+.p2{
+    width: 292px;
+    height: 70px;
+    font-size: 12px;
+    color: #000000; 
+}
+.hero4{
+    display: flex;
+    padding: 7rem;
+}
+.h4left{
+    
+    width: 720px;
+    height: 378px;
+    background: #515603; 
+}
+.h41{
+width: 330px;
+height: 75px;
+font-size: 64px;
+color: #FFFFFF;
+margin: 3rem;
+margin-left: 7.8rem;
+}
+.h42{
+width: 499px;
+height: 92px; 
+font-size: 14px;
+line-height: 23px;
+color: #FFFFFF;
+margin: 3rem;
+margin-left: 3rem;
+}
+.h43{
+width: 240px;
+height: 21px;  
+font-size: 18px;
+color: #FFFFFF;
+margin: 3rem;
+margin-left: 3rem;
+}
+.h4right{
+width: 720px;
+height: 378px;
+background:#722300 ; 
+}
+.h44{
+width: 277px;
+height: 75px;
+font-size: 64px;
+color: #FFFFFF;
+line-height: 75px;
+margin: 3rem;
+margin-left: 7.8rem;
+}
+.h45{
+width: 496px;
+height: 80px; 
+font-size: 14px; 
+line-height: 20px;
+color: #FFFFFF;
+margin: 3rem;
+margin-left: 3rem;
+}
+.h46{
+width: 495px;
+height: 75px;
+font-size: 14px;
+line-height: 22px;
+color: #FFFFFF;
+margin: 3rem;
+margin-left: 3rem;
+}
+.last{
+    width: 1440px;
+    height: 138px;   
+    background: #000000;
+}
+.l1{
+width: 341px;
+height: 22px;  
+font-size: 21px;
+line-height: 22px;
+color: #FFFFFF;
+padding-top: 5rem;
+margin-left:35rem ;
+}
+
